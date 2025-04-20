@@ -1,0 +1,12 @@
+name: Woodchuckery
+title: Woodchuckery
+username: christopherbeaver
+account: christopherbeaver
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14480509
+bundleId: 10087714
+url: https://christopherbeaver.shinyapps.io/Woodchuckery/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
