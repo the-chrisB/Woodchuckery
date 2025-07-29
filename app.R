@@ -138,7 +138,7 @@ ui <- dashboardPage(
        of the age old question of woodchuck wood chucking quantities... or it's a shameless 
        demonstration of my map development and deployment abilites using Leaflet in combination 
        with Shiny Dashboard - whichever perspective you choose, you will become quite educated
-       in the IMAGINARY sport of woodchuckery!"
+       in the imaginary sport of woodchuckery!"
     )
   )
 )
